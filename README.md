@@ -1,10 +1,10 @@
 ## Hi there 👋
-🔭 Currently working with React, Tailwind CSS, Material UI
-🌱 In course for Microsoft Azure - AZ900
-📫 daniel.lu@fdmgroup.com / daniel.lu.guanhua@gmail.com
-😄 Pronouns: He/Him
-⚡ Archery / Rollerblading Enthusiast
-🎮 Atelier Lydie & Suelle
+- 🔭 Currently working with React, Tailwind CSS, Material UI
+- 🌱 In course for Microsoft Azure - AZ900
+- 📫 daniel.lu@fdmgroup.com / daniel.lu.guanhua@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Archery / Rollerblading Enthusiast
+- 🎮 Atelier Lydie & Suelle
 <!--
 **yawmoogle/yawmoogle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
